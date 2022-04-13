@@ -6,4 +6,4 @@ This contained jupyter notebook in this repository contains an accessible implem
 
 Two images created with this notebook are shown below: Escherizing M.C. Escher, and leafifying the Eiffel tower.
 
-<img src="images/neural_styles.png?raw=true" width="400">
+<img src="images/neural_styles.png?raw=true" width="800">
