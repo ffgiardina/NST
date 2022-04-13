@@ -1,0 +1,4 @@
+**/.DS_Store
+__pycache__
+**/vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5
+.ipynb_checkpoints
